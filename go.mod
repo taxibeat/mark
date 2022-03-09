@@ -6,7 +6,7 @@ require (
 	github.com/BurntSushi/toml v1.0.0 // indirect
 	github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815
 	github.com/kovetskiy/blackfriday/v2 v2.3.0
-	github.com/kovetskiy/gopencils v0.0.0-20201105104258-2a0bfdd710fb
+	github.com/kovetskiy/gopencils v0.0.0-20210811071033-d690b7a013fb
 	github.com/kovetskiy/ko v0.0.0-20200620085804-ec6b220882b0
 	github.com/kovetskiy/lorg v0.0.0-20200107130803-9a7136a95634
 	github.com/kovetskiy/mark v0.0.0-20211209054657-9cde833a1813
@@ -16,5 +16,3 @@ require (
 	github.com/stretchr/testify v1.5.1
 	gopkg.in/yaml.v2 v2.2.8
 )
-
-replace github.com/kovetskiy/mark => ../mark
